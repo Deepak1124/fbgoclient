@@ -1,4 +1,4 @@
-module fbgoclient
+module github.com/Deepak1124/fbgoclient
 
 go 1.20
 
